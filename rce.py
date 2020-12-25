@@ -1,4 +1,4 @@
-## Thanks To Dark Clown Security
+## My Team Dark Clown Security
 
 #!/usr/bin/env python3
 import argparse
@@ -34,7 +34,7 @@ def check_endpoint(url, headers):
 |\x1b[6;30;94m Remote Code Execution TerraMaster TOS \x1b[0m
 |\x1b[6;30;91m Youtube :  Dark Clown Security \x1b[0m
 |\x1b[6;30;94m My Team :  Dark Clown Security \x1b[0m
-|\x1b[6;30;42m Github : BELOM DI RILISH :D \x1b[0m
+|\x1b[6;30;42m Github : https://github.com/Dark-Clown-Security/RCE_TOS \x1b[0m
 +~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
 			""")
 		print("[+] Cek Versi CMS TerraMaster TOS =>  ", "\x1b[6;30;42m", str(response.content), "\x1b[0m")

@@ -32,7 +32,6 @@ def check_endpoint(url, headers):
       VVVV
 +~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
 |\x1b[6;30;94m Remote Code Execution TerraMaster TOS \x1b[0m
-|\x1b[6;30;93m Coded By : Arya Alfahrezy \x1b[0m
 |\x1b[6;30;91m Youtube :  Dark Clown Security \x1b[0m
 |\x1b[6;30;94m My Team :  Dark Clown Security \x1b[0m
 |\x1b[6;30;42m Github : BELOM DI RILISH :D \x1b[0m
